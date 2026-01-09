@@ -1,5 +1,5 @@
-import 'package:dart_week12/staff.dart';
+import 'package:dart_week12/cat.dart';
 
 void main() {
-  staff();
+  callCat();
 }

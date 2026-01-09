@@ -1,5 +1,5 @@
-import 'package:dart_week12/person.dart';
+import 'package:dart_week12/car2.dart';
 
 void main() {
-  callStudent();
+  callCar2();
 }

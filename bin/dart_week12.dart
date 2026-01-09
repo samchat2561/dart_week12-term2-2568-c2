@@ -1,5 +1,5 @@
-import 'package:dart_week12/notebook.dart';
+import 'package:dart_week12/person.dart';
 
 void main() {
-  callNoteBook();
+  callStudent();
 }
